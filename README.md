@@ -2,6 +2,8 @@
 
 ![npm](https://img.shields.io/npm/v/@workos-inc/node)
 [![Build Status](https://workos.semaphoreci.com/badges/workos-node/branches/main.svg?style=shields)](https://workos.semaphoreci.com/projects/workos-node)
+[![Unzip.dev](https://img.shields.io/badge/Featured%20on-Unzip.dev-fa2367)](https://unzip.dev/0x001-magic-links/#tools-players-%F0%9F%9B%A0%EF%B8%8F)
+
 
 The WorkOS library for Node.js provides convenient access to the WorkOS API from applications written in server-side JavaScript.
 
